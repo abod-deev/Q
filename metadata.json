@@ -1,0 +1,8 @@
+{
+  "name": "Delivro Sana'a",
+  "description": "منصة التوصيل الذكية الأولى في صنعاء - دقة، سرعة، وأمان.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
